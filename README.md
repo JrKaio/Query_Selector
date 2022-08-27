@@ -1,0 +1,1 @@
+This HTML and JS file aims to solve a selector query exercise
